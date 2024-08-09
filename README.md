@@ -2,8 +2,6 @@
 
 ## Mentions légales
 
-### Mentions légales
-
 **Éditeur du site :**  
 Équipe Ambulatoire de Réhabilitation Psychosociale  
 Adresse : CHU Brest - Hôpital Morvan -  2 Av. Foch, 29200 Brest - Bâtiment 2bis
