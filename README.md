@@ -1,4 +1,4 @@
-# Pages web de l'Equipe Ambulatoire de Réhabilitation Psychosociqle (EARPS) du CHU de Brest
+# Pages web de l'Equipe Ambulatoire de Réhabilitation Psychosociale (EARPS) du CHU de Brest
 
 ## Mentions légales
 
